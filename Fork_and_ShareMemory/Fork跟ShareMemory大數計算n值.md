@@ -81,9 +81,9 @@ if (pid == 0) {
 ```
  **<font face="微软雅黑">執行方法與Output範例:<font>**
 
-![Output Example](/picture/input.jpg)
+![Output Example](./picture/input.jpg)
 
-![Result](/picture/output.jpg)
+![Result](./picture/output.jpg)
 
 
 
